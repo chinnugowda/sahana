@@ -1,0 +1,11 @@
+creating a github account
+then using programs like mkdir,cd,pwd
+thwn using IDLE
+IDLE has two branches
+1) shell window
+2) editor window
+first we worked on shell window
+using addition,subtraction,multiplication,division,greater than,lesser thanetc
+then we worked on editor window
+using same add,sub,mul,divetc
+then saved the files and upload it in repository account.
