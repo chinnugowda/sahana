@@ -1,0 +1,9 @@
+first we brushed up the things did in the first class
+then started to do text conditioning program-
+they are of 3 types
+1) if
+2) else
+3) elif
+then we learnt about loop program
+1) while loop
+< > + -% etc are called as relational operators.
