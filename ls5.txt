@@ -1,0 +1,7 @@
+first assigning variables: we assigned multiple variables.
+lists: 2 programs usinglists
+string operations
+numbers: integers,floats,complexive numbers.
+tuple
+dictionary
+set
