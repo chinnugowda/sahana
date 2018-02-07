@@ -58,6 +58,9 @@ while count<=100:#its the condition
             print("yourcount is",count)
 	if count>100:
 	    count=count-r
+	    print ("your count is exceeding 100, try again")
 	if count==100:
 	    print("u won")
+	    break
+	
    
