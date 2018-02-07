@@ -56,4 +56,8 @@ while count<=100:#its the condition
             count=100
             print("you won, CONGRATULATIONS")
             print("yourcount is",count)
+	if count>100:
+	    count=count-r
+	if count==100:
+	    print("u won")
    
