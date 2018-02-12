@@ -1,0 +1,17 @@
+to write a mail using python program:
+
+    
+the official procedure or system of rules governing affairs of state
+or diplomatic occasions.
+
+
+   What is a Protocol? A protocol is a set of rules that governs the communications between computers on a network. ...
+Ethernet (Physical/Data Link Layers) ...
+IP and IPX (Network Layer) ...
+TCP and SPX (Transport Layer) ...
+HTTP, FTP, SMTP and DNS (Session/Presentation/Application Layers)
+
+protocolof yahoo
+ Yahoo! Messenger Protocol (YMSG)
+
+ executed a program for email using python and got it.
