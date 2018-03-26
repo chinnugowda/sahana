@@ -21,4 +21,4 @@ c=a+b
 print(c)
 
 
-a*2
+
